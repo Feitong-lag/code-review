@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Review"
+  short_description: "基于证据审查代码变更，识别真实缺陷并提供精确可执行的报告"
+  default_prompt: "Use $review-code to review these code changes and report evidence-backed findings."
